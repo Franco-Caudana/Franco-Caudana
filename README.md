@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de Ingeniería en Sistemas de Información (+75% de la carrera) con conocimientos en desarrollo de software, bases de datos (SQL) y soporte IT. <br>Experiencia  en proyectos acádemicos que abarcan análisis, diseño e implementación de sistemas, incluyendo documentación y modelado UML. Interesado en áreas de datos, testing, automatización y seguridad, con enfoque en la resolución de problemas y mejora continua. <br>En búsqueda de una oportunidad laboral inicial
+Estudiante de Ingeniería en Sistemas de Información (+75% de la carrera) con conocimientos en desarrollo de software, bases de datos (SQL) y soporte IT. <br>Experiencia  en proyectos acádemicos que abarcan análisis, diseño e implementación de sistemas, incluyendo documentación y modelado UML. Interesado en áreas de datos, testing, automatización y seguridad, con enfoque en la resolución de problemas y mejora continua. En búsqueda de una oportunidad laboral inicial
 
 
 ## 🌐 Socials:
