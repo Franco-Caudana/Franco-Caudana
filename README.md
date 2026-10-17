@@ -1,5 +1,9 @@
 # 💫 About Me:
-**Estudiante de Ingeniería en Sistemas de Información** (+75% de la carrera) con conocimientos en desarrollo de software, bases de datos (SQL) y soporte IT. <br>**Experiencia**  en proyectos acádemicos que abarcan análisis, diseño e implementación de sistemas, incluyendo documentación y modelado UML. Interesado en áreas de datos, testing, automatización y seguridad, con enfoque en la resolución de problemas y mejora continua. En búsqueda de una oportunidad laboral inicial
+**Estudiante de Ingeniería en Sistemas de Información (+70% aprobado) con interés en aplicar tecnología a procesos industriales: calidad, trazabilidad y
+ mejora continua. Formación en desarrollo de software (Java, Spring Boot, Node.js), bases de datos SQL y modelado UML. Actualmente cursando formación en Help Desk y 
+ Soporte IT, con foco en gestión de incidentes, sistemas de tickets, SLAs y documentación de soluciones. Nivel de inglés B2. En búsqueda de mi primera experiencia
+ profesional en el área IT.
+
 
 
 ## 🌐 Socials:
